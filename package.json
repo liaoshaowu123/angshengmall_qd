@@ -63,7 +63,7 @@
     "vue-splitpane": "1.0.4",
     "vuex": "3.1.0",
     "wangeditor": ">=3.0.0",
-    "xlsx": "^0.11.16",
+    "xlsx": "^0.17.0",
     "js-beautify": "^1.10.2",
     "sortablejs": "1.8.4",
     "vuedraggable": "2.20.0"
